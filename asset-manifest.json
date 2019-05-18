@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/test-website/static/css/main.84c8d362.chunk.css",
+    "main.js": "/test-website/static/js/main.e494caff.chunk.js",
+    "main.js.map": "/test-website/static/js/main.e494caff.chunk.js.map",
+    "runtime~main.js": "/test-website/static/js/runtime~main.9c24e08d.js",
+    "runtime~main.js.map": "/test-website/static/js/runtime~main.9c24e08d.js.map",
+    "static/js/2.cc0c5c28.chunk.js": "/test-website/static/js/2.cc0c5c28.chunk.js",
+    "static/js/2.cc0c5c28.chunk.js.map": "/test-website/static/js/2.cc0c5c28.chunk.js.map",
+    "index.html": "/test-website/index.html",
+    "precache-manifest.87e2550bad12321dc38f7fb5073fb562.js": "/test-website/precache-manifest.87e2550bad12321dc38f7fb5073fb562.js",
+    "service-worker.js": "/test-website/service-worker.js",
+    "static/css/main.84c8d362.chunk.css.map": "/test-website/static/css/main.84c8d362.chunk.css.map",
+    "static/media/NasaCollage.jpg": "/test-website/static/media/NasaCollage.8f98783a.jpg",
+    "static/media/QualcommHackJuntos.jpg": "/test-website/static/media/QualcommHackJuntos.01e3ecb8.jpg",
+    "static/media/cpp.svg": "/test-website/static/media/cpp.b939e9bb.svg",
+    "static/media/css.svg": "/test-website/static/media/css.56da8500.svg",
+    "static/media/fbYoPuedoProg.jpg": "/test-website/static/media/fbYoPuedoProg.bc213bb6.jpg",
+    "static/media/github_logo.svg": "/test-website/static/media/github_logo.76d344f0.svg",
+    "static/media/html5.svg": "/test-website/static/media/html5.6fabdf23.svg",
+    "static/media/java1.svg": "/test-website/static/media/java1.d419db0e.svg",
+    "static/media/jorge_antonio_landaverde_resume.pdf": "/test-website/static/media/jorge_antonio_landaverde_resume.31bdbaa1.pdf",
+    "static/media/js.svg": "/test-website/static/media/js.d4530eb3.svg",
+    "static/media/profpicsquare.jpg": "/test-website/static/media/profpicsquare.00a4ed1c.jpg",
+    "static/media/python.svg": "/test-website/static/media/python.9587af90.svg",
+    "static/media/reactB.svg": "/test-website/static/media/reactB.5de7e7d4.svg"
+  }
+}
